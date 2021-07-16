@@ -1,7 +1,7 @@
 {
   "source": [
     { "game_id": 1, "url_download": "/jetbrains/install/game-1-password.zip" },
-    { "game_id": 2, "url_download": "/jetbrains/install/game-2-password.zip" },
+    { "game_id": 2, "url_download": "/jetbrains/install/game-2-password.zip" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
