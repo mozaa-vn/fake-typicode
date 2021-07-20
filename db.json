@@ -21,6 +21,11 @@
       "postId": 1
     }
   ],
+  "otp-confirmation": {
+    "code": 1,
+    "data": null,
+    "message": "Chúc mừng bạn đã tạo tài khoản thành công"
+  },                    
   "user_profile": {
     "code": 1,
     "data": {
