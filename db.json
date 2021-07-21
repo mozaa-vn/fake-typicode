@@ -9,18 +9,17 @@
       "url_download": "/jetbrains/install/game-2-password.zip"
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
+  "test-success": {
+    "code": 1,
+    "data": null,
+    "message": "Test trạng thái thành công"
+  }, 
+  
+  "test-failed": {
+    "code": -1,
+    "data": null,
+    "message": "Test trạng thái thất bại"
+  }, 
   "otp-confirmation": {
     "code": 1,
     "data": null,
