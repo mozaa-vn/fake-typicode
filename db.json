@@ -2,12 +2,12 @@
   "source": [
     {
       "game_id": 1,
-      "url_download": "/jetbrains/install/game-1-password.zip",
+      "url_download": "/jetbrains/install/game-1.zip",
       "force_update": false
     },
     {
       "game_id": 2,
-      "url_download": "/jetbrains/install/game-2-password.zip",
+      "url_download": "/jetbrains/install/game-2.zip",
       "force_update": true
     }
   ],
