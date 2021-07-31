@@ -3,11 +3,13 @@
     {
       "game_id": 1,
       "url_download": "/jetbrains/install/game-1-password.zip",
+      "slug": "game-noi-tu",
       "version": "1.0.2"
     },
     {
       "game_id": 2,
       "url_download": "/jetbrains/install/game-2-password.zip",
+      "slug": "be-hoc-gioi",
       "version": "1.0.0"
     }
   ],
