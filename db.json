@@ -2,14 +2,14 @@
   "source": [
     {
       "game_id": 1,
-      "url_download": "/jetbrains/install/game-1-password.zip",
+      "url_download": "/jetbrains/install/game-noi-tu.zip",
       "slug": "game-noi-tu",
       "version": "1.0.2"
     },
     {
       "game_id": 2,
-      "url_download": "/jetbrains/install/game-2-password.zip",
-      "slug": "be-hoc-gioi",
+      "url_download": "/jetbrains/install/behocgioi.zip",
+      "slug": "behocgioi",
       "version": "1.0.0"
     }
   ],
