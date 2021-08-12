@@ -1,13 +1,13 @@
 {
   "source": [
     {
-      "game_id": 1,
+      "game_id": "aaaaaaaa",
       "url_download": "kidy/games/game-noi-tu.zip",
       "slug": "game-noi-tu",
       "version": "1.0.2"
     },
     {
-      "game_id": 2,
+      "game_id": "bbbbbbb",
       "url_download": "kidy/games/behocgioi.zip",
       "slug": "behocgioi",
       "version": "1.1.5"
