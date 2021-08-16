@@ -1,17 +1,45 @@
 {
+  "profile": {
+    "success": true,
+    "message": "string",
+    "data": {
+      "fullName": "Văn Ý",
+      "email": "",
+      "phoneNumber": "0975882458",
+      "address": "địa chỉ",
+      "birthday": "2021-08-16T08:47:10.131Z",
+      "memberLevel": 0,
+      "avatar": "",
+      "children": [
+        {
+          "childId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "fullName": "con số 1",
+          "nickName": "binbaby",
+          "birthday": "",
+          "avatar": "",
+          "gender": 1,
+          "age": 0,
+          "schoolInfo": {
+            "id": 0,
+            "name": "string"
+          }
+        }
+      ]
+    }
+  },
   "source": [
     {
       "game_id": 1,
       "url_download": "kidy/games/game-noi-tu.zip",
       "slug": "game-noi-tu",
-      "id_app" : "ed81d315-4ba5-4496-a51e-96c0dfd32d85",
+      "id_app": "ed81d315-4ba5-4496-a51e-96c0dfd32d85",
       "version": "1.0.2"
     },
     {
       "game_id": 2,
       "url_download": "kidy/games/behocgioi.zip",
       "slug": "behocgioi",
-      "id_app" : "ed81d315-4ba5-4496-a51e-96c0dfd33333",
+      "id_app": "ed81d315-4ba5-4496-a51e-96c0dfd33333",
       "version": "1.1.5"
     }
   ],
@@ -19,18 +47,17 @@
     "code": 1,
     "data": null,
     "message": "Test trạng thái thành công"
-  }, 
-  
+  },
   "test-failed": {
     "code": -1,
     "data": null,
     "message": "Test trạng thái thất bại"
-  }, 
+  },
   "otp-confirmation": {
     "code": 1,
     "data": null,
     "message": "Chúc mừng bạn đã tạo tài khoản thành công"
-  },                    
+  },
   "user_profile": {
     "code": 1,
     "data": {
