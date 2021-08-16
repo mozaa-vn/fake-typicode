@@ -55,51 +55,13 @@
     }
   ],
   "test-success": {
-    "code": 1,
+    "success": true,
     "data": null,
     "message": "Test trạng thái thành công"
-  },
-  "test-failed": {
-    "code": -1,
-    "data": null,
-    "message": "Test trạng thái thất bại"
   },
   "otp-confirmation": {
     "code": 1,
     "data": null,
     "message": "Chúc mừng bạn đã tạo tài khoản thành công"
-  },
-  "user_profile": {
-    "code": 1,
-    "data": {
-      "user_id": "1234",
-      "mobile": "0975882458",
-      "fullName": "Nguyen Van Y",
-      "childrend": [
-        {
-          "child_id": 223,
-          "full_name": "Con - tít"
-        },
-        {
-          "child_id": 224,
-          "full_name": "Con gái - tèo"
-        },
-        {
-          "child_id": 250,
-          "full_name": "Con gái - tẹt"
-        }
-      ],
-      "courses_paid": [
-        {
-          "course_id": 1,
-          "course_name": "Bộ giáo trình toán lớp 1"
-        },
-        {
-          "course_id": 2,
-          "course_name": "Bộ giáo trình tiếng anh lớp 2"
-        }
-      ]
-    },
-    "message": "oke"
   }
 }
