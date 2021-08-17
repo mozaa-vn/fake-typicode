@@ -54,10 +54,40 @@
       "version": "1.1.5"
     }
   ],
-  "test-success": {
+  "units": {
     "success": true,
-    "data": null,
-    "message": "Test trạng thái thành công"
+    "message": "string",
+    "data": {
+      "packageId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "packageName": "string",
+      "levels": [
+        {
+          "levelId": "3fa85f64-5717-4562-b3fc-111",
+          "levelName": "string",
+          "orderIndex": 0
+        },
+        {
+          "levelId": "3fa85f64-5717-4562-b3fc-222",
+          "levelName": "string",
+          "orderIndex": 1
+        },
+        {
+          "levelId": "3fa85f64-5717-4562-b3fc-333",
+          "levelName": "string",
+          "orderIndex": 2
+        }
+      ],
+      "units": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "name": "string",
+          "levelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "description": "string",
+          "image": "image",
+          "isComplete": true
+        }
+      ]
+    }
   },
   "otp-confirmation": {
     "code": 1,
