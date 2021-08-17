@@ -86,7 +86,7 @@
           "image": "image",
           "isComplete": true
         },
-                {
+        {
           "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "name": "string",
           "levelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
@@ -94,7 +94,7 @@
           "image": "image",
           "isComplete": true
         },
-                {
+        {
           "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "name": "string",
           "levelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
@@ -102,7 +102,7 @@
           "image": "image",
           "isComplete": true
         },
-                {
+        {
           "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "name": "string",
           "levelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
@@ -110,7 +110,7 @@
           "image": "image",
           "isComplete": true
         },
-                {
+        {
           "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "name": "string",
           "levelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
@@ -118,7 +118,7 @@
           "image": "image",
           "isComplete": true
         },
-                {
+        {
           "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "name": "string",
           "levelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
@@ -126,15 +126,14 @@
           "image": "image",
           "isComplete": true
         },
-                {
+        {
           "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "name": "string",
           "levelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "description": "string",
           "image": "image",
           "isComplete": true
-        },
-        
+        }
       ]
     }
   },
