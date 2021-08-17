@@ -63,17 +63,17 @@
       "levels": [
         {
           "levelId": "3fa85f64-5717-4562-b3fc-111",
-          "levelName": "string",
+          "levelName": "level 1",
           "orderIndex": 0
         },
         {
           "levelId": "3fa85f64-5717-4562-b3fc-222",
-          "levelName": "string",
+          "levelName": "level 2",
           "orderIndex": 1
         },
         {
           "levelId": "3fa85f64-5717-4562-b3fc-333",
-          "levelName": "string",
+          "levelName": "level 3",
           "orderIndex": 2
         }
       ],
