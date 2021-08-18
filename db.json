@@ -10,33 +10,29 @@
       }
     ]
   },
-  "profile": {
+  "games": {
     "success": true,
     "message": "string",
-    "data": {
-      "fullName": "Văn Ý",
-      "email": "",
-      "phoneNumber": "0975882458",
-      "address": "địa chỉ",
-      "birthday": "2021-08-16T08:47:10.131Z",
-      "memberLevel": 0,
-      "avatar": "",
-      "children": [
-        {
-          "childId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-          "fullName": "con số 1",
-          "nickName": "binbaby",
-          "birthday": "",
-          "avatar": "",
-          "gender": 1,
-          "age": 0,
-          "schoolInfo": {
-            "id": 0,
-            "name": "string"
-          }
-        }
-      ]
-    }
+    "data": [
+      {
+        "gameId": "3fa85f64-5717-4562-b3fc-2c963f-1",
+        "name": "nối từ",
+        "isComplete": true,
+        "thumbnailUrl": "string"
+      },
+      {
+        "gameId": "3fa85f64-5717-4562-b3fc-2c963f-2",
+        "name": "bé học giỏi",
+        "isComplete": false,
+        "thumbnailUrl": "string"
+      },
+      {
+        "gameId": "3fa85f64-5717-4562-b3fc-2c963f-3",
+        "name": "đập trứng",
+        "isComplete": false,
+        "thumbnailUrl": "string"
+      }
+    ]
   },
   "source": [
     {
