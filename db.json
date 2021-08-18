@@ -80,7 +80,7 @@
       "units": [
         {
           "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-          "name": "string",
+          "name": "unit số 1",
           "levelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "description": "string",
           "thumbnailUrl": "image",
@@ -88,7 +88,7 @@
         },
         {
           "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-          "name": "string",
+          "name": "unit số 2",
           "levelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "description": "string",
           "thumbnailUrl": "image",
@@ -96,7 +96,7 @@
         },
         {
           "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-          "name": "string",
+          "name": "unit số 3",
           "levelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "description": "string",
           "thumbnailUrl": "image",
@@ -104,7 +104,7 @@
         },
         {
           "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-          "name": "string",
+          "name": "unit số 4",
           "levelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "description": "string",
           "thumbnailUrl": "image",
@@ -112,7 +112,7 @@
         },
         {
           "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-          "name": "string",
+          "name": "unit số 5",
           "levelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "description": "string",
           "thumbnailUrl": "image",
@@ -120,7 +120,7 @@
         },
         {
           "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-          "name": "string",
+          "name": "unit số 6",
           "levelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "description": "string",
           "thumbnailUrl": "image",
@@ -128,7 +128,7 @@
         },
         {
           "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-          "name": "string",
+          "name": "unit số 7",
           "levelId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
           "description": "string",
           "thumbnailUrl": "image",
@@ -137,9 +137,17 @@
       ]
     }
   },
-  "otp-confirmation": {
-    "code": 1,
-    "data": null,
-    "message": "Chúc mừng bạn đã tạo tài khoản thành công"
+  "lessons": {
+    "success": true,
+    "message": "string",
+    "data": [
+      {
+        "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "name": "lesson số 1",
+        "description": "string",
+        "isComplete": false,
+        "thumbnailUrl": "string"
+      }
+    ]
   }
 }
