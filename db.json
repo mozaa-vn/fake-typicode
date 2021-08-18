@@ -39,14 +39,14 @@
       "game_id": 1,
       "url_download": "kidy/games/game-noi-tu.zip",
       "slug": "game-noi-tu",
-      "id_app": "ed81d315-4ba5-4496-a51e-96c0dfd32d85",
+      "id_app": "3fa85f64-5717-4562-b3fc-2c963f-1",
       "version": "1.0.2"
     },
     {
       "game_id": 2,
       "url_download": "kidy/games/behocgioi.zip",
       "slug": "behocgioi",
-      "id_app": "ed81d315-4ba5-4496-a51e-96c0dfd33333",
+      "id_app": "3fa85f64-5717-4562-b3fc-2c963f-2",
       "version": "1.1.5"
     }
   ],
