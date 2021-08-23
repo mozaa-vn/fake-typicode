@@ -25,12 +25,6 @@
         "name": "bé học giỏi",
         "isComplete": false,
         "thumbnailUrl": "string"
-      },
-      {
-        "gameId": "3fa85f64-5717-4562-b3fc-2c963f-3",
-        "name": "đập trứng",
-        "isComplete": false,
-        "thumbnailUrl": "string"
       }
     ]
   },
