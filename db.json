@@ -14,28 +14,25 @@
     "success": true,
     "message": "string",
     "data": [
-      {
-        "game_id": 1,
-        "url_download": "https://farm01.myg.vn/kidy/games/game-noi-tu.zip",
-        "slug": "game-noi-tu",
-        "id_app": "6083269c-5aee-4287-9231-89d04611c141",
-        "version": "0.1.0"
-      },
-      {
-        "game_id": 2,
-        "url_download": "https://farm01.myg.vn/kidy/games/behocgioi.zip",
-        "slug": "behocgioi",
-        "id_app": "dca2b926-e269-4866-a0d5-2effb4ca0b44",
-        "version": "0.1.0"
-      },
-      {
-        "game_id": 3,
-        "url_download": "http://farm01.myg.vn/kidy/games/chon-trung.zip",
-        "slug": "chon-trung",
-        "id_app": "a0f268a4-f7ea-4bb9-b3e0-2437ffa98c16",
-        "version": "0.1.0"
-      }
-    ]
+  {
+    "gameId": "3fa85f64-5717-4562-b3fc-2c963f-1",
+    "name": "nối từ",
+    "isComplete": true,
+    "thumbnailUrl": "string"
+  },
+  {
+    "gameId": "3fa85f64-5717-4562-b3fc-2c963f-2",
+    "name": "bé học giỏi",
+    "isComplete": false,
+    "thumbnailUrl": "string"
+  },
+  {
+    "gameId": "3fa85f64-5717-4562-b3fc-2c963f-3",
+    "name": "chọn trứng",
+    "isComplete": false,
+    "thumbnailUrl": "string"
+  }
+]
   },
   "source": [
       {
